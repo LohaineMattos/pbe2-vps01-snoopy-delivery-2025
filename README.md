@@ -53,6 +53,3 @@ npm start
     - O arquivo ./docs/testes.sql é um script com dados de teste para inserir no banco de dados.
 - 8 Para parar a execução do servidor, pressione **CTRL + C** no terminal.
 
-
-# Título
-<img src="../docs/readmotorista.png">
