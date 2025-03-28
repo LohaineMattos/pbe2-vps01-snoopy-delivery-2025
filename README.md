@@ -52,3 +52,7 @@ npm start
 - 7 Caso queira visualizar o banco de dados, abra o **XAMPP** Control Panel e clique em **Admin** no módulo MySQL.
     - O arquivo ./docs/testes.sql é um script com dados de teste para inserir no banco de dados.
 - 8 Para parar a execução do servidor, pressione **CTRL + C** no terminal.
+
+
+# Título
+<img src="../docs/readmotorista.png">
